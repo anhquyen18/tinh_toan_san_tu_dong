@@ -1,0 +1,48 @@
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\TinhToanSanTHXD.dll
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\TinhToanSanTHXD.pdb
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.AssemblyReference.cache
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.CoreCompileInputs.cache
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.dll
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.pdb
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormNhapFileAccess.resources
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormThongSoThepVaBetong.resources
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormTinhToan.resources
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.GenerateResource.cache
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\EPPlus.dll
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\System.ComponentModel.Annotations.dll
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\EPPlus.xml
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\NCKHDone\Done\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.CopyComplete
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\TinhToanSanTHXD.dll
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\TinhToanSanTHXD.pdb
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\EPPlus.dll
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\EPPlus.xml
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.AssemblyReference.cache
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormNhapFileAccess.resources
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormThongSoThepVaBetong.resources
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormTinhToan.resources
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.GenerateResource.cache
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.CopyComplete
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.dll
+C:\Users\ASUS-PRO\Downloads\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.pdb
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\TinhToanSanTHXD.dll
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\TinhToanSanTHXD.pdb
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\EPPlus.dll
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\System.ComponentModel.Annotations.dll
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\EPPlus.xml
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.AssemblyReference.cache
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormNhapFileAccess.resources
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormThongSoThepVaBetong.resources
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.FormTinhToan.resources
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.GenerateResource.cache
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.CoreCompileInputs.cache
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.csproj.CopyComplete
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.dll
+F:\NCKH\Ung Dung Tinh Toan San\TinhToanSanTHXD\TinhToanSanTHXD\obj\Debug\TinhToanSanTHXD.pdb
